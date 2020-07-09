@@ -2,3 +2,17 @@
 data/jeju_data_ver1.zip
 data/jeju_data_ver1/201901-202003.csv
 data/jeju_data_ver1/submission.csv
+data/covid19/Weather.csv
+data/covid19/TimeProvince.csv
+data/covid19/TimeGender.csv
+data/covid19/TimeAge.csv
+data/covid19/Time.csv
+data/covid19/SeoulFloating.csv
+data/covid19/SearchTrend.csv
+data/covid19/Region.csv
+data/covid19/Policy.csv
+data/covid19/PatientRoute.csv
+data/covid19/PatientInfo.csv
+data/covid19/Case.csv
+제주_빅데이터 경진대회 베이스라인 코드 LGBM.ipynb
+제주_빅데이터 경진대회 베이스라인 코드 Random Forest Regression.ipynb
