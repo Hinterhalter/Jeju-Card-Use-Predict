@@ -16,3 +16,4 @@ data/covid19/PatientInfo.csv
 data/covid19/Case.csv
 제주_빅데이터 경진대회 베이스라인 코드 LGBM.ipynb
 제주_빅데이터 경진대회 베이스라인 코드 Random Forest Regression.ipynb
+*.csv
